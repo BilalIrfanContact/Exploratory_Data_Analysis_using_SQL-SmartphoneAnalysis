@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-**Dataset Used:** [Smartphone Data Analysis](https://www.kaggle.com/datasets/jenilhareshbhaighori/smartphone-data-analysis-using)
+**Dataset Used:** [Smartphone Dataset](https://www.kaggle.com/datasets/jenilhareshbhaighori/smartphone-data-analysis-using)
 
 **Project Objectives and Scope:**  
 The primary objective of this project was to perform comprehensive data analysis on a smartphone dataset to derive valuable insights into various aspects such as ratings, prices, features, and performance metrics across different brands. The scope included exploring advanced SQL techniques, such as subqueries, temporary tables, common table expressions (CTEs), and stored procedures, to perform intricate data analysis and generate meaningful reports.
